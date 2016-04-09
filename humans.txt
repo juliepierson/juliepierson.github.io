@@ -1,11 +1,11 @@
 /* TEAM */
     Conceptor:  ssbx@supercastframework.org
-    Site:       www.supercastframework.org/About
-    Location:   Bordeaux, France
+    Site:       juliepierson.github.io/Apropos
+    Location:   Gradignan, France
 
 /* SITE */
     Last update:    2016/04/09
-    Language:       English
+    Language:       French
     Doctype:        HTML5
     Standards:      HTML5, CSS3
     Components:     Bootstrap
